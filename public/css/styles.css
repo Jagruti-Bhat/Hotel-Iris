@@ -1,0 +1,54 @@
+
+li a:hover{
+  color: white!important;
+}
+
+li a{
+  color: grey!important;
+}
+
+.click{
+  color: white!important;
+  text-decoration: underline!important;
+}
+
+.logo{
+  width: 70px;
+}
+
+a{
+  text-decoration: none!important;
+}
+
+
+.head-heading{
+  font-family: "Merriweather";
+  font-weight: 700;
+}
+
+.head-para{
+  font-family: "Corinthia";
+  font-weight: 700;
+}
+
+.head-section{
+  padding: 20px;
+  margin-left:600px;
+}
+
+.card-img-overlay{
+  padding:50px!important
+
+}
+
+.restaurant{
+  color: black!important;
+}
+
+.stay{
+  color:white;
+}
+
+.hall{
+  color: white;
+}
